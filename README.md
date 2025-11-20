@@ -1,10 +1,11 @@
 # okiscape
 > I'm okiscape, love customization, REST, python, linux and services, which cares enough for UX.
+> From Russia, Moscow. Freely talks on English.
 ```js
 // last update: 20.11.2025
 ```
 
-## I work'd with:
+## I've worked with:
 > **Python**\
 > disnake - aiogram - websockets - PyQT - FastAPI - aiosqlite - PostgreSQL
 
