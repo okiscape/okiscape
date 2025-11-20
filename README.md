@@ -6,7 +6,8 @@
 ## Tech Stack
 **Programming:** Python - Bash - JavaScript - TypeScript - HTML/CSS
 **Talks on:** Russian (native), English (conversational)
-> Frameworks\
+> Frameworks
+
 **Python:** disnake - aiogram - FastAPI - PyTorch - sqlite/aio-sqlite - PostgreSQL
 **Frontend:** Vue (JS & TS)
 **Backend:** FastAPI - Express (TS) - lowdb
