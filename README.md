@@ -1,6 +1,8 @@
 # okiscape
 > I'm okiscape, love customization, REST, python, linux and services, which cares enough for UX.
-
+```js
+// last update: 20.11.2025
+```
 
 ## I work'd with:
 > **Python**\
