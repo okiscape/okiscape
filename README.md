@@ -29,4 +29,4 @@
     <img src="https://count.getloli.com/get/@okiscape?theme=gelbooru" width="70%"> 
 </p>
 
-<img src="https://cdn3.emoji.gg/emojis/23347-mambotongue.png" width="64px" height="64px" alt="Mambotongue">
+<img src="https://cdn3.emoji.gg/emojis/23347-mambotongue.png" width="400px" height="400px" alt="Mambotongue">
