@@ -21,7 +21,7 @@
 ---
 
 ## Contacts
-> [Telegram Business](https://t.me/@frtBlessed)
+> [Telegram Business](https://t.me/@ftrBlessed)
 
 ---
 
