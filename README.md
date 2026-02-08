@@ -10,7 +10,7 @@
 > disnake - aiogram - websockets - PyQT - FastAPI - aiosqlite - PostgreSQL
 
 > **Javascript/Typescript**\
-> express - lowdb
+> express - lowdb - Nuxt - websockets - electron - nest.js - sqlite
 
 > **Web**\
 > HTML+CSS - Vue - TailwindCSS
@@ -21,7 +21,7 @@
 ---
 
 ## Contacts
-> [Telegram Business](https://t.me/@ijustneedtosleep)
+> [Telegram Business](https://t.me/@frtBlessed)
 
 ---
 
