@@ -2,7 +2,7 @@
 > I'm okiscape, love customization, REST, python, linux and services, which cares enough for UX.\
 > From Russia, Moscow. Freely talks on English.
 ```js
-// last update: 08.02.2026
+// last update: 07.03.2026
 ```
 
 ## I've worked with:
@@ -21,7 +21,7 @@
 ---
 
 ## Contacts
-> [Telegram Business](https://t.me/@ftrBlessed)
+> [Telegram Business](https://t.me/@frtBlessed)
 
 ---
 
