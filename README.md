@@ -2,7 +2,7 @@
 > I'm okiscape, love customization, REST, python, linux and services, which cares enough for UX.\
 > From Russia, Moscow. Freely talks on English.
 ```js
-// last update: 09.03.2026
+// last update: 12.03.2026
 ```
 
 ## I've worked with:
@@ -16,7 +16,7 @@
 > HTML+CSS - Vue - TailwindCSS
 
 > **Other**\
-> Linux bash - systemd units
+> Linux bash - systemd units - Go
 
 ---
 
