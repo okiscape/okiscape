@@ -5,13 +5,13 @@
 <pre>
 > front   HTML+CSS · Vue/Nuxt · React/Next · TailwindCSS · Electron
 
-> back    Express · Fastify · Nest.js · FastAPI · Go
+> back    Express · Fastify · Nest.js · FastAPI
 
 > db      Lowdb · PostgreSQL · MySQL · SQLite
 
 > tools   Disnake · Aiogram · Websockets · PyQT · Bash · SystemD
-          Go · Docker · Watchtower · Turborepo · Caddy/Nginx · GHA
-          TS · Arch, Ubuntu Linux · FFmpeg
+          Go · Docker · Watchtower · Turborepo · Caddy/Nginx · GHA+GHCR
+          JS/TS · Arch/Ubuntu/Alpine Linux · FFmpeg · Rust
 </pre>
 
 <p align="center">
